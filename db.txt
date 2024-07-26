@@ -1,0 +1,50 @@
+The Shawshank Redemption,Tim Robbins,Morgan Freeman,Frank Darabont,1994,142
+The Godfather,Marlon Brando,Al Pacino,Francis Ford Coppola,1972,175
+The Dark Knight,Christian Bale,Heath Ledger,Christopher Nolan,2008,152
+The Godfather Part II,Al Pacino,Robert De Niro,Francis Ford Coppola,1974,202
+12 Angry Men,Henry Fonda,Lee J. Cobb,Sidney Lumet,1957,96
+Schindler's List,Liam Neeson,Ben Kingsley,Steven Spielberg,1993,195
+The Lord of the Rings: The Return of the King,Elijah Wood,Viggo Mortensen,Peter Jackson,2003,201
+Pulp Fiction,John Travolta,Uma Thurman,Quentin Tarantino,1994,154
+The Lord of the Rings: The Fellowship of the Ring,Elijah Wood,Ian McKellen,Peter Jackson,2001,178
+The Good the Bad and the Ugly,Clint Eastwood,Eli Wallach,Sergio Leone,1966,178
+Forrest Gump,Tom Hanks,Robin Wright,Robert Zemeckis,1994,142
+The Lord of the Rings: The Two Towers,Elijah Wood,Ian McKellen,Peter Jackson,2002,179
+Fight Club,Brad Pitt,Edward Norton,David Fincher,1999,139
+Inception,Leonardo DiCaprio,Joseph Gordon-Levitt,Christopher Nolan,2010,148
+Star Wars: Episode V - The Empire Strikes Back,Mark Hamill,Harrison Ford,George Lucas,1980,124
+The Matrix,Keanu Reeves,Laurence Fishburne,Lana Wachowski,1999,136
+Goodfellas,Robert De Niro,Ray Liotta,Martin Scorsese,1990,146
+One Flew Over the Cuckoo's Nest,Jack Nicholson,Louise Fletcher,Milos Forman,1975,133
+Dune Part II,Timothee Chalamet,Zendaya,Denis Villeneuve,2024,166
+Se7en,Morgan Freeman,Brad Pitt,David Fincher,1995,127
+Interstellar,Matthew McConaughey,Anne Hathaway,Christopher Nolan,2014,169
+It's a Wonderful Life,James Stewart,Donna Reed,Frank Capra,1946,130
+Seven Samurai,Toshiro Mifune,Takashi Shimura,Akira Kurosawa,1954,207
+The Silence of the Lambs,Jodie Foster,Anthony Hopkins,Jonathan Demme,1991,118
+Saving Private Ryan,Tom Hanks,Matt Damon,Steven Spielberg,1998,169
+City of God,Alexandre Rodrigues,Leandro Firmino,Fernando Meirelles,2002,130
+Life is Beautiful,Roberto Benigni,Nicoletta Braschi,Roberto Benigni,1997,116
+The Green Mile,Tom Hanks,Michael Clarke Duncan,Frank Darabont,1999,189
+Terminator 2: Judgment Day,Arnold Schwarzenegger,Linda Hamilton,James Cameron,1991,137
+Alien,Dan O'Bannon,Ronald Shusett,Ridley Scott,1979,117
+Back to the Future,Michael J. Fox,Christopher Lloyd,Robert Zemeckis,1985,116
+Spirited Away,Daveigh Chase,Suzanne Pleshette,Hayao Miyazaki,2001,125
+The Pianist,Adrien Brody,Thomas Kretschmann,Roman Polanski,2002,150
+Parasite,Song Kang-ho,Jung Ik-han,Bong Joon-ho,2019,132
+Psycho,Anthony Perkins,Janet Leigh,Alfred Hitchcock,1960,109
+Spider-Man: Across the Spider-Verse,Shameik Moore,Hailee Steinfield,Joaquim Dos Santos,2023,140
+Gladiator,Russell Crowe,Joaquin Phoenix,Ridley Scott,2000,155
+The Lion King,Matthew Broderick,Jeremy Irons,Rob Minkoff,1994,88
+Leon: The Professional,Jean Reno,Natalie Portman,Luc Besson,1994,110
+The Departed,Leonardo DiCaprio,Matt Damon,Martin Scorsese,2006,151
+American History X,Edward Norton,Edward Furlong,Tony Kaye,1998,119
+Whiplash,Miles Teller,Jonathan Kimble Simmons,Damien Chazelle,2014,109
+The Prestige,Christian Bale,Hugh Jackman,Christopher Nolan,2006,130
+Grave of the Fireflies,Tsutomu Tatsumi,Ayano Shiraishi,Isao Takahata,1988,89
+Harakiri,Tatsuya Nakadai,Akira Ishihama,Masaki Kobayashi,1962,133
+The Usual Suspects,Kevin Spacey,Stephen Baldwin,Bryan Singer,1995,106
+Casablanca,Humphrey Bogart,Ingrid Bergman,Michael Curtiz,1942,102
+The Intouchables,Francois Cluzet,Omar Sy,Olivier Nakache,2011,112
+Cinema Paradiso,Philippe Noiret,Enzo Cannavale,Giuseppe Tornatore,1988,174
+Modern Times,Charles Chaplin,Paulette Goddard,Charles Chaplin,1936,87
